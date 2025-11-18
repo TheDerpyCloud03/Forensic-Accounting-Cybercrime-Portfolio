@@ -1,5 +1,5 @@
-# Forensic-Accounting-Cybercrime-Portfolio
-Welcome to my portfolio!
+# learning log- forensic accounting and cybersecurity
+Welcome to my learning log
 I have a strong passion about uncovering financial misconduct, exposing scams, and helping victims of fraud and corruption, and even the victims of fraud and corruption who went on to harm themselves or further. Through a combination of forensic accounting techniques, data analysis, cybersecurity practices, and investigative psychology and criminology, I aim to shine a light on hidden financial irregularities and contribute to a time where people's grandma's aren't vulnerable to random people stealing their bank access and their pensions
 This repository reflects my journey, in both an academic and practical way as I build the skills and tools necessary to investigate fraud, cybercrime, and unethical behavior. As I progress, I will be expanding this portfolio with projects that showcase my learning, insights, and investigations.
 My Mission & 4 Core Values:
